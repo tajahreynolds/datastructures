@@ -16,21 +16,45 @@ Our first project was meant to get us started with Data Structures. This project
 - Test code for edge cases, corner cases, and typical cases.
 - Format and comment source code that adheres to a given set of formatting guidelines.
 
-#### Personal Takeaways From Project 1
+#### Personal Takeaways from Project 1
 
 Project 1 serves as a refresher for students to re-familiarize themselves with standard coding practices, but it was my first introduction to JUnit and unit testing. JUnit is incredibly useful for making sure my code worked as expected, and testing for all cases became manageable immediately.
 
-### Project 2
+### Project 2: Resizable Set
+
+#### Project 2 Learning Outcomes
+
+#### Personal Takeaways from Project 2
 
 ### Project 3
 
+#### Project 3 Learning Outcomes
+
+#### Personal Takeaways from Project 3
+
 ### Project 4
+
+#### Project 4 Learning Outcomes
+
+#### Personal Takeaways from Project 4
 
 ### Project 5
 
+#### Project 5 Learning Outcomes
+
+#### Personal Takeaways from Project 5
+
 ### Project 6
 
+#### Project 6 Learning Outcomes
+
+#### Personal Takeaways from Project 6
+
 ### Project 7
+
+#### Project 7 Learning Outcomes
+
+#### Personal Takeaways from Project 7
 
 ```markdown
 Syntax highlighted code block
@@ -49,13 +73,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tajahreynolds/eng313site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
