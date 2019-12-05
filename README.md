@@ -1,10 +1,24 @@
 ## Welcome to TaJah Reynolds' page
 
-This page has been created to showcase the projects I have completed throughout this semester, as well as the key points learned as a result of these projects.
+This page has been created to showcase the projects I have completed in Data Structures and Abstractions throughout this semester, as well as the key points learned as a result of these projects.
 
-### Markdown
+### Project 1: Java Review (Array, Interface, Class, JUnit Test, Driver)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our first project was meant to get us started with Data Structures. This project required students to implement a simple container by writing a java class called ArrayUtility, which implements an interface called Utility interface. The array-based implementation of the container (ArrayUtility) has the ability to store multiple Integer objects in an array, and define the methods from the UtilityInterface to manipulate the array. The methods that needed to be implemented were documented in the provided UtilityInterface.html file.
+
+#### Project 1 Learning Outcomes
+
+- Use an array to implement a simple container.
+- Write and understand javadoc documentation.
+- Follow a set of specifications for class implementation, including constructors and methods.
+- Write a driver class to test a class and its methods.
+- Use JUnit library to test code.
+- Test code for edge cases, corner cases, and typical cases.
+- Format and comment source code that adheres to a given set of formatting guidelines.
+
+#### Personal Takeaways From Project 1
+
+Project 1 serves as a refresher for students to re-familiarize themselves with standard coding practices, but it was my first introduction to JUnit and unit testing. JUnit is incredibly useful for making sure my code worked as expected, and testing for all cases became manageable immediately.
 
 ```markdown
 Syntax highlighted code block
