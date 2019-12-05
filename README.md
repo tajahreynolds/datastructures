@@ -4,7 +4,7 @@ This page has been created to showcase the projects I have completed in Data Str
 
 ## Project 1: Java Review (Array, Interface, Class, JUnit Test, Driver)
 
-Our first project was meant to get us started with Data Structures. This project required students to implement a simple container by writing a java class called ArrayUtility, which implements an interface called UtilityInterface. The array-based implementation of the container (ArrayUtility) has the ability to store multiple Integer objects in an array, and define the methods from the UtilityInterface to manipulate the array. The methods that needed to be implemented were documented in the provided UtilityInterface.html file.
+Our first project was designed to introduce us to data structures. This project required students to implement a simple container by writing a java class called ArrayUtility, which implements an interface called UtilityInterface. The array-based implementation of the container (ArrayUtility) has the ability to store multiple Integer objects in an array, and define the methods from the UtilityInterface to manipulate the array. The methods that needed to be implemented were documented in the provided UtilityInterface.html file.
 
 ```//TODO: Link to Proj 1 [Link](url)```
 
