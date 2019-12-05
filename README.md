@@ -57,26 +57,37 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ### Personal Takeaways from Project 4
 
-## Project 5
+## Project 5: No Duplicates Queue and Priority Queue
 
 ```//TODO: Link to Proj 5```
 
 ### Project 5 Learning Outcomes
 
+- Implement an array-based queue.
+- Implement a linked nodes-based priority queue.
+
 ### Personal Takeaways from Project 5
 
-## Project 6
+## Project 6: Hashing, Dictionary and Game Moves
 
 ```//TODO: Link to Proj 6```
 
 ### Project 6 Learning Outcomes
 
+- Define a class to represent a game board.
+- Generate game board configuration using recursion.
+- Determine the best move for a given game board configuration.
+- Store game moves in a dictionary.
+- Define and use a class to work with a data structure (Dictionary, Hashing).
+
 ### Personal Takeaways from Project 6
 
-## Project 7
+## Project 7: Speedy Lookup
 
 ```//TODO: Link to Proj 7```
 
 ### Project 7 Learning Outcomes
+
+- Implement a data structure to solve a problem efficiently.
 
 ### Personal Takeaways from Project 7
