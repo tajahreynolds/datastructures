@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to TaJah Reynolds' page
 
-You can use the [editor on GitHub](https://github.com/tajahreynolds/eng313site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page has been created to showcase the projects I have completed throughout this semester, as well as the key points learned as a result of these projects.
 
 ### Markdown
 
