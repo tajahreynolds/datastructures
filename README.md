@@ -20,6 +20,18 @@ Our first project was meant to get us started with Data Structures. This project
 
 Project 1 serves as a refresher for students to re-familiarize themselves with standard coding practices, but it was my first introduction to JUnit and unit testing. JUnit is incredibly useful for making sure my code worked as expected, and testing for all cases became manageable immediately.
 
+### Project 2
+
+### Project 3
+
+### Project 4
+
+### Project 5
+
+### Project 6
+
+### Project 7
+
 ```markdown
 Syntax highlighted code block
 
