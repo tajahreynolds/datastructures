@@ -22,6 +22,8 @@ Our first project was designed to introduce us to data structures. This project 
 
 Project 1 serves as a refresher for students to re-familiarize themselves with standard coding practices, but it was my first introduction to JUnit and unit testing. JUnit is incredibly useful for making sure my code worked as expected, and testing for all cases became manageable immediately.
 
+***
+
 ## Project 2: Set, Resizable Array-based Implementation
 
 ```//TODO: Link to Proj 2```
@@ -33,6 +35,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ### Personal Takeaways from Project 2
 
+***
+
 ## Project 3: Set ADT, Sorted Set, Circular Doubly Linked List
 
 ```//TODO: Link to Proj 3```
@@ -43,6 +47,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 - Implement a circular doubly linked list.
 
 ### Personal Takeaways from Project 3
+
+***
 
 ## Project 4: Stack, Array-based Implementation, Algebraic Expressions: Infix, Postfix, Evaluation
 
@@ -57,6 +63,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ### Personal Takeaways from Project 4
 
+***
+
 ## Project 5: No Duplicates Queue and Priority Queue
 
 ```//TODO: Link to Proj 5```
@@ -67,6 +75,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 - Implement a linked nodes-based priority queue.
 
 ### Personal Takeaways from Project 5
+
+***
 
 ## Project 6: Hashing, Dictionary and Game Moves
 
@@ -81,6 +91,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 - Define and use a class to work with a data structure (Dictionary, Hashing).
 
 ### Personal Takeaways from Project 6
+
+***
 
 ## Project 7: Speedy Lookup
 
