@@ -116,7 +116,7 @@ Once the boards and best moves were generated, it was simply a matter of creatin
 ***
 ## Project 7: Speedy Lookup
 
-The final project in this course gave students complete freedom to implement a data structure to store and access data in a timely manner. The only restriction for the project is that students must write their own data structures, and not use Java's data structure library. The class was tested by reading in a string of terms from a text file, which were fed into a StudentLookup object. The StudentLookup object contains the name of a student as a String, and the frequency of the student as an int.
+The final project in this course gave students complete freedom to implement a data structure to store and access data in a timely manner. The only restriction for the project is that students must write their own data structures, and not use Java's data structure library. The class was tested by reading in a string of terms from a text file, which were fed into the StudentLookup object, the object that is used to store and access the student data.
 
 [Project 7 on Github](https://github.com/tajahreynolds/cse274_proj7)
 
