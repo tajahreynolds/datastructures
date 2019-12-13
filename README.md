@@ -26,6 +26,8 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ## Project 2: Set, Resizable Array-based Implementation
 
+Project 2 required students to create a ResizableArraySet class that implements all methods in the SetInterface interface provided. The implementation of the set uses a resizable array of Book objects, which was written following a UML class diagram.
+
 ```//TODO: Link to Proj 2```
 
 ### Project 2 Learning Outcomes
@@ -35,9 +37,13 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ### Personal Takeaways from Project 2
 
+This project tested my ability to implement a class using UML diagrams and interface, which are commonly used in writing Java classes. The use of the UML diagram and interface made this project straightforward to complete, and set a strong foundation for continued use throughout the rest of this class.
+
 ***
 
 ## Project 3: Set ADT, Sorted Set, Circular Doubly Linked List
+
+Project 3's assignment was to implement the SortedSet class using doubly linked nodes. The SortedSet class was written by implementing the methods in SetInterface, which was provided by the instructor. The SortedSet differs from Set as it is kept sorted at all times, including while adding and removing elements from the SortedSet.
 
 ```//TODO: Link to Proj 3```
 
@@ -48,20 +54,26 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 ### Personal Takeaways from Project 3
 
+This project showed me how interfaces can be used for different implementations, such as the Set implementation from Project 2 and the SortedSet implementation from this project. Additionally, I was introduced to linked implementations of ADT's, which were used consistently moving forward through the class.
+
 ***
 
 ## Project 4: Stack, Array-based Implementation, Algebraic Expressions: Infix, Postfix, Evaluation
+
+The goal of Project 4 was to write a program that allows the user to type an infix expression and check the expression for validity. If the expression is valid, the program gives the user the equivalent postfix expression and evaluates the expression.
 
 ```//TODO: Link to Proj 4```
 
 ### Project 4 Learning Outcomes
 
 - Implement a Stack using an array (resizable).
-- Implement an algorithmto convert infix expressions into postfix expressions.
+- Implement an algorithm to convert infix expressions into postfix expressions.
 - Implement an algorithm to evaluate infix expressions.
 - Implement an algorithm to evaluate postfix expressions.
 
 ### Personal Takeaways from Project 4
+
+This project challenged me to fully understand infix and postfix expressions, and be able to write algorithms that could convert infix expressions to postfix and evaluate them. This project also showed me how different data structures are more efficient at solving problems than other data structures.
 
 ***
 
