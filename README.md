@@ -6,7 +6,7 @@ This page has been created to showcase the projects I have completed in Data Str
 
 Our first project was designed to introduce us to data structures. This project required students to implement a simple container by writing a java class called ArrayUtility, which implements an interface called UtilityInterface. The array-based implementation of the container (ArrayUtility) has the ability to store multiple Integer objects in an array, and define the methods from the UtilityInterface to manipulate the array. The methods that needed to be implemented were documented in the provided UtilityInterface.html file.
 
-```//TODO: Link to Proj 1 [Link](url)```
+[Project 1 on Github](https://github.com/tajahreynolds/cse274_proj1)
 
 ### Project 1 Learning Outcomes
 
@@ -27,7 +27,7 @@ Project 1 serves as a refresher for students to re-familiarize themselves with s
 
 Project 2 required students to create a ResizableArraySet class that implements all methods in the SetInterface interface provided. The implementation of the set uses a resizable array of Book objects, which was written following a UML class diagram.
 
-```//TODO: Link to Proj 2```
+[Project 2 on Github](https://github.com/tajahreynolds/cse274_proj2)
 
 ### Project 2 Learning Outcomes
 
@@ -43,7 +43,7 @@ This project tested my ability to implement a class using UML diagrams and inter
 
 Project 3's assignment was to implement the SortedSet class using doubly linked nodes. The SortedSet class was written by implementing the methods in SetInterface, which was provided by the instructor. The SortedSet differs from Set as it is kept sorted at all times, including while adding and removing elements from the SortedSet.
 
-```//TODO: Link to Proj 3```
+[Project 3 on Github](https://github.com/tajahreynolds/cse274_proj3)
 
 ### Project 3 Learning Outcomes
 
@@ -59,7 +59,7 @@ This project showed me how interfaces can be used for different implementations,
 
 The goal of Project 4 was to write a program that allows the user to type an infix expression and check the expression for validity. If the expression is valid, the program gives the user the equivalent postfix expression and evaluates the expression.
 
-```//TODO: Link to Proj 4```
+[Project 4 on Github](https://github.com/tajahreynolds/cse274_proj4)
 
 ### Project 4 Learning Outcomes
 
@@ -77,7 +77,7 @@ This project challenged me to fully understand infix and postfix expressions, an
 
 Project 5 was split into two parts. In the first part, students were instructed to consider a queue that only allows a single copy of an object into the queue at any time. Then, students were to create an interface NoDuplicatesQueueInterface that extends QueueInterface, provided by the instructor. The NoDuplicatesQueueInterface was then used to write the NoDuplicatesQueueArray class. The second part of Project 5 was to create a priority queue that does not allow duplicates. This was accomplished by writing an interface NoDuplicatesPriorityQueueInterface that extends PriorityQueueInterface, provided by the instructor. Finally, students wrote a sorted linked implementation of NoDuplicatesPriorityQueueLinkedNodes using the NoDuplicatesPriorityQueueInterface.
 
-```//TODO: Link to Proj 5```
+[Project 5 on Github](https://github.com/tajahreynolds/cse274_proj5)
 
 ### Project 5 Learning Outcomes
 
@@ -93,7 +93,7 @@ This project challenged me to write my own interfaces in order to create a class
 
 Project 6 asked students to consider all possible boards in a game of Tic Tac Toe. For each board position there is a "best move". Then, write a program that plays a game of Tic Tac Toe in which a dictionary calculates and stores all possible board positions, as well as the best move associated with that position.
 
-```//TODO: Link to Proj 6```
+[Project 6 on Github](https://github.com/tajahreynolds/cse274_proj6)
 
 ### Project 6 Learning Outcomes
 
@@ -118,7 +118,7 @@ Once the boards and best moves were generated, it was simply a matter of creatin
 
 The final project in this course gave students complete freedom to implement a data structure to store and access data in a timely manner. The only restriction for the project is that students must write their own data structures, and not use Java's data structure library. The class was tested by reading in a string of terms from a text file, which were fed into a StudentLookup object. The StudentLookup object contains the name of a student as a String, and the frequency of the student as an int.
 
-```//TODO: Link to Proj 7```
+[Project 7 on Github](https://github.com/tajahreynolds/cse274_proj7)
 
 ### Project 7 Learning Outcomes
 
