@@ -79,6 +79,8 @@ This project challenged me to fully understand infix and postfix expressions, an
 
 ## Project 5: No Duplicates Queue and Priority Queue
 
+Project 5 was split into two parts. In the first part, students were instructed to consider a queue that only allows a single copy of an object into the queue at any time. Then, students were to create an interface NoDuplicatesQueueInterface that extends QueueInterface, provided by the instructor. The NoDuplicatesQueueInterface was then used to write the NoDuplicatesQueueArray class. The second part of Project 5 was to create a priority queue that does not allow duplicates. This was accomplished by writing an interface NoDuplicatesPriorityQueueInterface that extends PriorityQueueInterface, provided by the instructor. Finally, students wrote a sorted linked implementation of NoDuplicatesPriorityQueueLinkedNodes using the NoDuplicatesPriorityQueueInterface.
+
 ```//TODO: Link to Proj 5```
 
 ### Project 5 Learning Outcomes
@@ -88,9 +90,13 @@ This project challenged me to fully understand infix and postfix expressions, an
 
 ### Personal Takeaways from Project 5
 
+This project challenged me to write my own interfaces in order to create a class. It also taught me how interfaces interact with other interfaces in a compounding nature. This is a skill that I am thankful for learning, as writing an interface allows for easy implementation of a class. 
+
 ***
 
 ## Project 6: Hashing, Dictionary and Game Moves
+
+Project 6 asked students to consider all possible boards in a game of Tic Tac Toe. For each board position there is a "best move". Then, write a program that plays a game of Tic Tac Toe in which a dictionary calculates and stores all possible board positions, as well as the best move associated with that position.
 
 ```//TODO: Link to Proj 6```
 
@@ -104,9 +110,19 @@ This project challenged me to fully understand infix and postfix expressions, an
 
 ### Personal Takeaways from Project 6
 
+Project 6 was a lot of fun to work on. I used a recursive method that generated all valid boards that was outlined by the instructor, which was a majority of the work load for this project. Once the boards were generated, I needed to determine the best move for each board. I used the following steps to determine the best move:
+
+1. Look at all empty spaces to see if there is a winning move. If there is, make the move to win.
+2. See if the other player will win on the next move. If they will, make the move to block the win.
+3. If none of the above are true, make a move, and then another if there is an empty space. If that board generates a winning move, then it is the best move.
+
+Once the boards and best moves were generated, it was simply a matter of creating a user interface to allow interaction with the game. Overall, this project pushed me to come up with creative solutions in order to complete the project.
+
 ***
 
 ## Project 7: Speedy Lookup
+
+The final project in this course gave students complete freedom to implement a data structure to store and access data in a timely manner. The only restriction for the project is that students must write their own data structures, and not use Java's data structure library. The class was tested by reading in a string of terms from a text file, which were fed into a StudentLookup object. The StudentLookup object contains the name of a student as a String, and the frequency of the student as an int.
 
 ```//TODO: Link to Proj 7```
 
@@ -115,3 +131,5 @@ This project challenged me to fully understand infix and postfix expressions, an
 - Implement a data structure to solve a problem efficiently.
 
 ### Personal Takeaways from Project 7
+
+Project 7 was challenging for me to implement a data structure without direction. Initially I wanted to use a Dictionary to store the student name as the key with the frequency as the associated value, but that didn't allow me to easily rank the most popular names. I settled with a LinkedSortedList, which allowed me to store the StudentLookup objects in order from highest to lowest frequency. This method turned out to be pretty efficient, and I recieved bonus points for being within the top 8 fastest implementations.
